@@ -1,0 +1,3 @@
+CSC 216,Software Development Fundamentals,601,3,jctetter,A
+CSC 217,Software Development Fundamentals Lab,601,1,sesmith5,A
+Exercise,UMTHF,800,900,

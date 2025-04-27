@@ -1,0 +1,6 @@
+CSC116,Intro to Programming - Java,001,3,jdyoung2,MWF,0910,1200
+CSC216,Software Development Fundamentals,001,3,sesmith5,TH,1330,1445
+CSC217,Software Development Fundamentals Lab,202,1,sesmith5,MWF,1040,1130
+CSC226,Discrete Mathematics for Computer Scientists,001,3,tmbarnes,MWF,1130,1300
+CSC230,C and Software Tools,001,3,dbsturgi,MW,1145,1300
+CSC316,Data Structures and Algorithms,001,3,jtking,MW,830,945
